@@ -11,8 +11,8 @@ Library | location | Purpose
 Pyautogui | [Pyautogui](Pyautogui/Pyautogui.md) | Automation
 Django | [Django](Django/Django.md) | Python Web App
 Flask | [Flask](Flask/Flask.md) | Python Web App
-PyQt5 |  |  GUI Builder - L/W/M
-Kivy |  | GUI Builder - L/M/W/A
-KivyMD |  | GUI Builder - L/M/W/A
-pyodbc-mdb |  | MDB Database Access
-pymongo |  | MongoDB Access
+PyQt5 | [PyQt5](PyQt5/PyQt5.md) |  GUI Builder - L/W/M
+Kivy | [Kivy](Kivy/Kivy.md) | GUI Builder - L/M/W/A
+KivyMD | [KivyMD](KivyMD/KivyMD.md) | GUI Builder - L/M/W/A
+pyodbc-mdb | [MDB](pyodbc/mdb/pyodbc-mdb.md) | MDB Database Access
+pymongo | [Pymongo](Pymongo/Pymongo.md) | MongoDB Access
